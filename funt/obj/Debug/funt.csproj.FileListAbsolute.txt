@@ -1,0 +1,8 @@
+E:\проекты\funt\funt\bin\Debug\funt.exe.config
+E:\проекты\funt\funt\bin\Debug\funt.exe
+E:\проекты\funt\funt\bin\Debug\funt.pdb
+E:\проекты\funt\funt\obj\Debug\funt.csproj.AssemblyReference.cache
+E:\проекты\funt\funt\obj\Debug\funt.csproj.SuggestedBindingRedirects.cache
+E:\проекты\funt\funt\obj\Debug\funt.csproj.CoreCompileInputs.cache
+E:\проекты\funt\funt\obj\Debug\funt.exe
+E:\проекты\funt\funt\obj\Debug\funt.pdb
